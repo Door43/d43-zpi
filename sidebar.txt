@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zpi:home|Door43 (zpi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zpi|d43-zpi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zpi/archive/master.zip|d43-zpi.zip]]
+
+**Recent Changes**
+{{changes>ns = zpi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zpi|Ethnologue data]]
+
